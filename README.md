@@ -1,6 +1,8 @@
 # CompletedTask
 Автоматизированные тесты для gmail
 
+Тест-кейс Gmail: https://docs.google.com/spreadsheets/d/1BlF22uBML9SCyiA6_s2TserfyiUWegFJj1dii6i9ykk/edit?usp=sharing
+
  Шаги, для запуска тестов:
   1. Разархивировать проект "ProjectTestGmail" в любое удобное место.
   2. Запустить IntelliJ IDEA Community Edition. 
